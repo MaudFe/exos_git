@@ -1,4 +1,6 @@
-insectes
-tomates
-salade
-pain
+Pain
+Insecte
+Salade
+Tomate
+Tofu
+Sauce
